@@ -19,6 +19,7 @@
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="css" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
+    <img align="center" alt="css" src="[https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white](https://miro.medium.com/v2/resize:fit:400/1*r9PHaS8b0YCrOnMu9tZz9g.png)">
 </div><br/>
 
 ## Banco de Dados:
