@@ -15,15 +15,13 @@
 ## Tecnologias que eu uso
 
 <div style="display: inline block"><br/>
-    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
+      <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,php,html,css" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"T
 </div><br/>
 
 ## Banco de Dados:
 <div style="display: inline block"><br/>
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=mysql" />
 </div><br/>
 
 
