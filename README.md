@@ -15,7 +15,7 @@
 
 ![devRochaa GitHub stats](https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true) 
 <img src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5">      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark" align="left"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark"> 
 
 
 
