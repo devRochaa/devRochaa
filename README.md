@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Daniel Rocha 🤙
 
+
 <a href="https://www.instagram.com/rochadaniel.o/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="https://www.linkedin.com/in/daniel-rocha-de-oliveira-041788246/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 
 ## Sobre mim:
@@ -9,8 +10,13 @@
 “Menos é mais. Ser simples requer tempo e esforço.” — Jeff Bullas </p>
 </br>
 
-![devRochaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=devRochaa&show_icons=true&theme=dark)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![devRochaa GitHub stats](https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark)
+
+
 
 ## Tecnologias que eu uso
 
