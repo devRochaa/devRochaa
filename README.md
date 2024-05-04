@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Daniel Rocha 🤙
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rocha.salve/)
+<a href="https://www.instagram.com/rochadaniel.o/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="https://www.linkedin.com/in/daniel-rocha-de-oliveira-041788246/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 
 ## Sobre mim:
 <p>-🖥 Cursando Desenvolvimento de Sistemas (Etec)
@@ -16,7 +16,6 @@
 
 <div style="display: inline block"><br/>
       <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,php,html,css" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"T
 </div><br/>
 
 ## Banco de Dados:
