@@ -19,7 +19,6 @@
         <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true">
         <img alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark"> 
     </div>
-    <img alt="gif" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" style="float: right; width: 500px;">
 </div>
 
 
@@ -36,7 +35,10 @@
 ## Banco de Dados:
 <div style="display: inline block"><br/>
     <img src="https://skillicons.dev/icons?i=mysql" />
-</div><br/>
+</div>
+
+## ㅤㅤ ㅤㅤ
+Estudando...
+    <img alt="gif" align="right" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" width="400px">
 
 
-Estudando..
