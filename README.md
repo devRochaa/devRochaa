@@ -14,12 +14,12 @@
 
 
 
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex-grow: 1;">
+<div>
+    <div style="float: left; width: 50%;">
         <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true">
         <img alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark"> 
     </div>
-    <img alt="gif" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" style="margin-left: 20px;">
+    <img alt="gif" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" style="float: right; width: 500px;">
 </div>
 
 
