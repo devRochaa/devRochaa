@@ -1,4 +1,3 @@
-
 ## Olá! Eu sou o Daniel Rocha 🤙
 
 
@@ -9,19 +8,17 @@
 </br>
 </br>
 “Menos é mais. Ser simples requer tempo e esforço.” — Jeff Bullas </p>
-</br>
 
+<hr>
+<br>
 
-<div style="display:flex;">
+<img align="right" alt="gif" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" width="400px">
+<br>
+<br>
+<br>
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true">
-<img align="right"  alt="gif" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" width="400px">
-<img alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark"> 
-
-</div>
-
-
-
-
+<br>
+<img alt="lang" width="468px" style src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark">
 
 
 
@@ -36,7 +33,4 @@
     <img src="https://skillicons.dev/icons?i=mysql" />
 </div>
 
-## ㅤㅤ ㅤㅤ
-
-
-
+## ㅤㅤ 
