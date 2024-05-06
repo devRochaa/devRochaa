@@ -12,7 +12,7 @@
 <hr>
 <br>
 
-<img align="right" alt="gif" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" width="400px">
+<img align="right" alt="gif" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" width="300px">
 <br>
 <br>
 <br>
