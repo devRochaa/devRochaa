@@ -13,7 +13,7 @@
 </br>
 
 
-<div align="left" style="display:inline block;">
+<div style="display:inline block;">
         <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true">
         <img alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark"> 
 </div>
