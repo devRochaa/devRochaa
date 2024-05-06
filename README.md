@@ -10,13 +10,13 @@
 “Menos é mais. Ser simples requer tempo e esforço.” — Jeff Bullas </p>
 
 <hr>
+<br>
 
-<img align="right" alt="gif" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" width="40%">
+<img align="right" alt="gif" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" width="350px">
+
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true">
 <br>
-<br>
-<br>
-<img alt="stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true">
-<img alt="lang" width="40%" style src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark">
+<img alt="lang" width="468px" style src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark">
 
 
 
