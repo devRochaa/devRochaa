@@ -15,7 +15,7 @@
 <br>
 <br>
 <br>
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true">
+<img alt="stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true">
 <img alt="lang" width="40%" style src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark">
 
 
