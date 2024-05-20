@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Daniel Rocha 🤙
 
-<a href="mailto:danielrocha.etec@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a></a> <a href="https://www.linkedin.com/in/daniel-rocha-de-oliveira-041788246/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
+<a href="https://www.instagram.com/rochadaniel.o/"><img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="https://www.linkedin.com/in/daniel-rocha-de-oliveira-041788246/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 ## Sobre mim:
 
 <p>-🖥 Cursando Desenvolvimento de Sistemas (Etec)
