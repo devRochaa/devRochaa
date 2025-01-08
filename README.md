@@ -22,7 +22,7 @@
 ## Tecnologias que eu uso
 
 <div style="display: inline block"><br/>
-      <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,php,html,css" />
+      <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,php,html,css,js" />
 </div><br/>
 
 ## Banco de Dados:
