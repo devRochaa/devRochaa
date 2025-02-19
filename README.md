@@ -3,7 +3,8 @@
 <a href="https://www.instagram.com/rochadaniel.o/"><img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="https://www.linkedin.com/in/daniel-rocha-de-oliveira-041788246/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 ## Sobre mim:
 
-<p>-🖥 Cursando Desenvolvimento de Sistemas (Etec)
+<p>-🖥 Cursando Sistemas de Informação (UNESP)
+<p>-🖥 Técnico em Desenvolvimento de Sistemas (Etec)
 </br>
 </br>
 “Menos é mais. Ser simples requer tempo e esforço.” — Jeff Bullas </p>
