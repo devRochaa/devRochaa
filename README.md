@@ -23,12 +23,13 @@
 ## Tecnologias que eu uso
 
 <div style="display: inline block"><br/>
-      <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,php,html,css,js" />
+      <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,php,html,css,js,mysql" />
 </div><br/>
 
-## Banco de Dados:
-<div style="display: inline block"><br/>
-    <img src="https://skillicons.dev/icons?i=mysql" />
-</div>
+## 📌 Projetos em Destaque
 
-## ㅤㅤ 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devRochaa&repo=TCC-Mr.Math&theme=github_dark)](https://github.com/devRochaa/TCC-Mr.Math)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devRochaa&repo=AppEscala&theme=github_dark)](https://github.com/devRochaa/AppEscala)
+
+(Cria alguns cards assim para projetos que quer destacar)
+
