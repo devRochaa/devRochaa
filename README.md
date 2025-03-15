@@ -23,7 +23,7 @@
 ## Tecnologias que eu uso
 
 <div style="display: inline block"><br/>
-      <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,php,html,css,js,mysql" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,php,js,nodejs,html,css,mysql,sqlite" />
 </div><br/>
 
 ## 📌 Projetos em Destaque
