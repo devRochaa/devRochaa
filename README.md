@@ -28,6 +28,6 @@
 
 ## 📌 Projetos em Destaque
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devRochaa&repo=TCC-Mr.Math&theme=github_dark)](https://github.com/devRochaa/TCC-Mr.Math)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devRochaa&repo=StockMarketProject&theme=github_dark)](https://github.com/devRochaa/StockMarketProject)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devRochaa&repo=AppEscala&theme=github_dark)](https://github.com/devRochaa/AppEscala)
 
