@@ -12,13 +12,12 @@
 <hr>
 <br>
 
-<img align="right" alt="gif" src="https://github.com/devRochaa/devRochaa/assets/124582086/9191e0b0-70e0-4b1b-8675-7ba07a4e06d5" width="350px">
+<div style="display: flex">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devRochaa&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=devRochaa&hide=contribs,prs,&theme=github_dark&show_icons=true">
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=devRochaa&show_icons=true&theme=github_dark)
+</div>
 <br>
-<img alt="lang" width="468px" style src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRochaa&layout=compact&theme=github_dark">
-
-
 
 ## Tecnologias que eu uso
 
