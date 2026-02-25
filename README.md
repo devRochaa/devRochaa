@@ -12,10 +12,10 @@
 <hr>
 <br>
 
-<div style="display: flex">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devRochaa&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-
+<div align="center">
+      
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=devRochaa&show_icons=true&theme=github_dark)
+
 </div>
 <br>
 
